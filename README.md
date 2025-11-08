@@ -1,3 +1,7 @@
+# Credit
+Original by [Aidan63](https://github.com/Aidan63)
+This is used to make No Time For Funkin' work...
+
 # linc/discord-RPC
 
 Haxe/hxcpp @:native bindings for [discord-rpc](https://github.com/discordapp/discord-rpc)
